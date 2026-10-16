@@ -1,0 +1,16 @@
+{
+  "validMessage": {
+    "name": "Test User",
+    "email": "contact.tester@example.com",
+    "subject": "test",
+    "message": "Hello"
+  },
+  "specialCharactersMessage": {
+    "name": "Test User",
+    "email": "contact.tester@example.com",
+    "subject": "Special & <characters> test",
+    "message": "Prices in Rs. 500 & \"quotes\" are good, ? 100%!"
+  },
+  "uploadFilePath": "cypress/fixtures/upload-sample.txt",
+  "uploadFileName": "upload-sample.txt"
+}

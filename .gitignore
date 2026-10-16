@@ -1,0 +1,6 @@
+.env
+cypress/reports/
+
+# Cypress generated files
+cypress/screenshots/
+cypress/videos/

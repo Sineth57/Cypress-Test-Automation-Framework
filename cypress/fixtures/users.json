@@ -1,0 +1,26 @@
+{
+  "newUser": {
+    "name": "Test User",
+    "email": "sineth.cypress.qa@example.com",
+    "password": "Test@1234",
+    "title": "Mr",
+    "birth_date": "15",
+    "birth_month": "June",
+    "birth_year": "1998",
+    "firstname": "Test",
+    "lastname": "User",
+    "company": "QA Company",
+    "address1": "123 Test Street",
+    "address2": "Apartment 4B",
+    "country": "India",
+    "zipcode": "10115",
+    "state": "Western",
+    "city": "Colombo",
+    "mobile_number": "0771234567"
+  },
+  "invalidUser": {
+    "email": "notregistered_user@example.com",
+    "password": "WrongPass@123"
+  },
+  "invalidEmailFormat": "abc.com"
+}

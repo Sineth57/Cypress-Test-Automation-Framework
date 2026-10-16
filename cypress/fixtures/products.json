@@ -1,0 +1,30 @@
+{
+  "blueTop": {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "priceValue": 500,
+    "brand": "Polo",
+    "category": "Women > Tops"
+  },
+  "menTshirt": {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "priceValue": 400,
+    "brand": "H&M",
+    "category": "Men > Tshirts"
+  },
+  "sleevelessDress": {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "priceValue": 1000,
+    "brand": "Madame",
+    "category": "Women > Dress"
+  },
+  "searchTerms": {
+    "valid": "top",
+    "noResults": "xyzabc123"
+  }
+}

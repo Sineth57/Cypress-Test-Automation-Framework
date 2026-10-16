@@ -1,0 +1,13 @@
+{
+  "maxResponseMs": 8000,
+  "requiredProductFields": ["id", "name", "price", "brand", "category"],
+  "knownBrands": ["Polo", "H&M", "Madame"],
+  "blueTop": {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "usertype": "Women",
+    "category": "Tops"
+  }
+}
